@@ -1,0 +1,11 @@
+C:\Users\zeL\grandCircus\labs\grandRepo\pigLatin_capstone\pigLatin_capstone\bin\Debug\netcoreapp2.1\pigLatin_capstone.deps.json
+C:\Users\zeL\grandCircus\labs\grandRepo\pigLatin_capstone\pigLatin_capstone\bin\Debug\netcoreapp2.1\pigLatin_capstone.runtimeconfig.json
+C:\Users\zeL\grandCircus\labs\grandRepo\pigLatin_capstone\pigLatin_capstone\bin\Debug\netcoreapp2.1\pigLatin_capstone.runtimeconfig.dev.json
+C:\Users\zeL\grandCircus\labs\grandRepo\pigLatin_capstone\pigLatin_capstone\bin\Debug\netcoreapp2.1\pigLatin_capstone.dll
+C:\Users\zeL\grandCircus\labs\grandRepo\pigLatin_capstone\pigLatin_capstone\bin\Debug\netcoreapp2.1\pigLatin_capstone.pdb
+C:\Users\zeL\grandCircus\labs\grandRepo\pigLatin_capstone\pigLatin_capstone\obj\Debug\netcoreapp2.1\pigLatin_capstone.csprojAssemblyReference.cache
+C:\Users\zeL\grandCircus\labs\grandRepo\pigLatin_capstone\pigLatin_capstone\obj\Debug\netcoreapp2.1\pigLatin_capstone.csproj.CoreCompileInputs.cache
+C:\Users\zeL\grandCircus\labs\grandRepo\pigLatin_capstone\pigLatin_capstone\obj\Debug\netcoreapp2.1\pigLatin_capstone.AssemblyInfoInputs.cache
+C:\Users\zeL\grandCircus\labs\grandRepo\pigLatin_capstone\pigLatin_capstone\obj\Debug\netcoreapp2.1\pigLatin_capstone.AssemblyInfo.cs
+C:\Users\zeL\grandCircus\labs\grandRepo\pigLatin_capstone\pigLatin_capstone\obj\Debug\netcoreapp2.1\pigLatin_capstone.dll
+C:\Users\zeL\grandCircus\labs\grandRepo\pigLatin_capstone\pigLatin_capstone\obj\Debug\netcoreapp2.1\pigLatin_capstone.pdb
